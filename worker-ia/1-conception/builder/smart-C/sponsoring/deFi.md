@@ -1,0 +1,1 @@
+Pour que ce soit intéressant pour tout le monde, je passe beaucoup de temps à chercher quels types d'exercices seront les plus motivants tout en étant les plus instructifs. En parcourant le catalogue vous tomberez forcément sur des projets que vous aimeriez savoir faire.

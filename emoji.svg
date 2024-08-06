@@ -1,0 +1,21 @@
+<svg
+  viewBox="0 0 72 72"
+  xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <polygon fill="#3F3F3F" points="33 53 48 54 48 61 24 61 24 54 39 53"/>
+    <polygon fill="#3F3F3F" points="40.182 13.371 32.939 13.242 27 24 22 60 30 60 33 44 39 48 43 58 47 58 50 24"/>
+    <polygon fill="#704040" points="32.939 13.242 32 10.5 30 15.5 29.091 20.257"/>
+    <polygon fill="#A57939" points="32.939 13.242 33.875 21.5 33.094 22.992"/>
+    <g>
+      <rect fill="#92D3F5" x="27" y="28" width="8" height="4" rx="2" ry="2"/>
+      <rect fill="#92D3F5" x="37" y="16" width="12" height="24" rx="2" ry="2"/>
+    </g>
+  </g>
+  <g id="line">
+    <circle cx="32.939" cy="15.242" r="1.743"/>
+    <path fill="none" d="M32.939,13.2418c0-.37-.2-.7-.55-.7s-.7025.33-.7025.7a.696.696,0,0,0,.3075.5925L32.939,14.71l1.382-.9625A.69.69,0,0,0,32.939,13.2418Z"/>
+    <line x1="32" x2="30" y1="10.5" y2="15.5" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="39" x2="33" y1="48" y2="44" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="43" x2="39" y1="58" y2="48" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

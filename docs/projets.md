@@ -1,0 +1,7 @@
+"Notre projet innovant propose une solution révolutionnaire pour la formation et l'emploi, en combinant le concept de Curriculum Vitae Numérique Universel (CVNU) avec le Match in Learning. Notre vision est de créer un écosystème de développement professionnel continu, où l'apprentissage, la croissance et la contribution sont valorisés.
+En intégrant GPT-Wallet et umcTokens.sol, nous garantissons une récompense minimum mensuelle de 500 pi.coin en tant que valeur utilisateur-cv dans la blockchain. Cette approche encourage les individus à élargir leur CVNU et à se perfectionner sans cesse, tout en étant récompensés pour leur contribution.
+Nos fonctionnalités clés incluent :
+L'intégration du CVNU avec GPT-Wallet pour garantir une rémunération juste.
+Le concept de Match in Learning pour encourager l'apprentissage continu et l'évolution professionnelle.
+Une interface utilisateur intuitive pour une expérience d'apprentissage fluide et agréable.
+Grâce à notre projet, nous créons un avenir dans lequel les individus peuvent s'épanouir en équipe avec l'IA, construisant une société plus équitable et dynamique. Nous sommes convaincus que notre solution répondra aux besoins évolutifs du marché du travail, en favorisant l'apprentissage, la collaboration et l'innovation"

@@ -1,0 +1,28 @@
+<!DOCTYPE html css>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>5-Star Animation</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="stars">
+    <svg viewBox="0 0 100 100">
+      <polygon class="star" points="50,0 65,30 90,35 70,60 65,90 50,75 35,90 30,60 10,35 35,30" />
+      <polygon class="star" points="50,0 65,30 90,35 70,60 65,90 50,75 35,90 30,60 10,35 35,30" transform="rotate(72 50 50)" />
+      <polygon class="star" points="50,0 65,30 90,35 70,60 65,90 50,75 35,90 30,60 10,35 35,30" transform="rotate(144 50 50)" />
+      <polygon class="star" points="50,0 65,30 90,35 70,60 65,90 50,75 35,90 30,60 10,35 35,30" transform="rotate(216 50 50)" />
+      <polygon class="star" points="50,0 65,30 90,35 70,60 65,90 50,75 35,90 30,60 10,35 35,30" transform="rotate(288 50 50)" />
+    </svg>
+  </div>
+  <script>
+    // Add some JavaScript magic to animate the stars
+    const stars = document.querySelectorAll('.star');
+    stars.forEach((star, index) => {
+      star.style.transform = `rotate(${index * 72}deg)`;
+      star.style.animation = `spin ${index * 0.5}s linear infinite`;
+    });
+  </script>
+</body>
+</html>
